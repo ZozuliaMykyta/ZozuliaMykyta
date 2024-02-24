@@ -4,7 +4,7 @@
 - 📖I'm currently working on improving my skills and knowledge  
   
 
-- 🌱 I’m currently learning PHP  
+- 🌱 My plans for the year: learn PHP, MySQL, WordPress
   
 
 - 📱How to contact me:   [![Telegram Badge](https://img.shields.io/badge/-MykytaZozulia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Nikita7635) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zozuliamykyta635@gmail.com)
