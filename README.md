@@ -1,4 +1,4 @@
-### <div align="center">👋I'm Mykyta, a beginner full stack developer 👨‍💻</div>  
+### <div align="center">👋I'm Mykyta, a junior full stack developer 👨‍💻</div>  
   
 
 - 📖I'm currently working on improving my skills and knowledge  
