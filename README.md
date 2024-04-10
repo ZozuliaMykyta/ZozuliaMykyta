@@ -46,4 +46,4 @@
 💻 Codewars:
 <br/>  
 
-![codewars](https://www.codewars.com/users/MykytaZozulia)
+![codewars](https://www.codewars.com/users/MykytaZozulia/badges/large)
