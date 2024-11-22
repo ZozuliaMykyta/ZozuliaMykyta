@@ -4,7 +4,7 @@
 - 📖I'm currently working on improving my skills and knowledge  
   
 ## My Skill Set
-HTML, CSS, JS, TS, jquery, React.js, bootstrap, SASS, BEM, git, webpack
+JS, TS, React.js, bootstrap, SASS, BEM, git, webpack
 
 <br/>  
 💻 Codewars:
