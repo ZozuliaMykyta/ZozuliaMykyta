@@ -1,7 +1,7 @@
 # Hi there! I’m Mykyta, a Junior Frontend Developer 👨‍💻  
 
 Welcome to my profile!  
-I’m an junior frontend developer passionate about creating interfaces that not only look great but also perform exceptionally well. I’m always eager to improve my skills and discover new ways to solve challenges.
+I’m a junior frontend developer passionate about creating interfaces that not only look great but also perform exceptionally well. I’m always eager to improve my skills and discover new ways to solve challenges.
 
 ## About Me  
 I’m studying **Industrial Management** at the **Technical University of Košice**. In the world of programming, I’m fascinated by **HTML**, **CSS**, **JavaScript**, and everything related to **frontend development**. I work with technologies like **React**, **TypeScript**, **Bootstrap**, and **SASS**, always striving for clean and efficient code.
