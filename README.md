@@ -21,9 +21,6 @@ I actively use a range of technologies to craft beautiful and effective code:
 
 Here are some of my stats:  
 
-<!-- Animated Stats -->  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZozuliaMykyta&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark&hide_border=true)  
-
 <!-- Top Languages -->  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZozuliaMykyta&layout=compact&langs_count=6&theme=dark)  
 
