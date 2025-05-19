@@ -1,5 +1,7 @@
 # Hi there! I’m Mykyta, a Junior Frontend Developer 👨‍💻  
 
+<img src="https://github.com/user-attachments/assets/f8544188-844b-4fcf-b43f-bbd357b2113c" alt="me_github" width="600"/>
+
 Welcome to my profile!  
 I’m a junior frontend developer passionate about creating interfaces that not only look great but also perform exceptionally well. I’m always eager to improve my skills and discover new ways to solve challenges.
 
