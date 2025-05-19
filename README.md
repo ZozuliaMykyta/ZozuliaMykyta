@@ -1,4 +1,4 @@
-# Hi there! I’m Mykyta, a Junior Frontend Developer 👨‍💻  
+# Hi there!
 
 <img src="https://github.com/user-attachments/assets/f8544188-844b-4fcf-b43f-bbd357b2113c" alt="me_github" width="600"/>
 
