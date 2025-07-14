@@ -1,23 +1,30 @@
-# Hi there!
+# 👋 Welcome to my GitHub!
 
 <img src="https://github.com/user-attachments/assets/f8544188-844b-4fcf-b43f-bbd357b2113c" alt="me_github" width="600"/>
 
-Welcome to my profile!  
-I’m a junior frontend developer passionate about creating interfaces that not only look great but also perform exceptionally well. I’m always eager to improve my skills and discover new ways to solve challenges.
+I'm a frontend developer passionate about building responsive, accessible, and efficient interfaces — but I’m also expanding my skills in backend development to become more versatile and confident as a full-stack developer.
 
 ## About Me  
-I’m studying **Industrial Management** at the **Technical University of Košice**. In the world of programming, I’m fascinated by **HTML**, **CSS**, **JavaScript**, and everything related to **frontend development**. I work with technologies like **React**, **TypeScript**, **Bootstrap**, and **SASS**, always striving for clean and efficient code.
+I'm currently studying **Industrial Management** at the **Technical University of Košice**. In my development journey, I’ve specialized in building modern interfaces using **React**, **TypeScript**, **Tailwind CSS**, and **SASS** — tools I use to create clean, responsive, and maintainable frontend applications.
+
+As my skills evolved, I grew interested in the full development cycle and started diving deeper into backend technologies like **Node.js**, **Express.js**, and **Docker**, expanding my capabilities beyond the client side. 
 
 When I’m not coding, I:  
 - Spend time at the **gym** 💪  
 - Enjoy **nature** and take long walks outdoors 🌿  
 
-## Skills & Technologies  
-I actively use a range of technologies to craft beautiful and effective code:  
+## 🛠️ Tech Stack
+**Languages:**  
+HTML, CSS, JavaScript, TypeScript
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Frameworks & Libraries:** React, Bootstrap  
-- **Tools & Technologies:** Git, SASS/SCSS, BEM  
+**Frontend:**  
+React, Tailwind CSS, SASS/SCSS, BEM
+
+**Backend:**  
+Node.js, Express.js
+
+**Tools & Workflow:**  
+Git, Docker, REST APIs
 
 ## GitHub Stats  
 
@@ -29,11 +36,8 @@ Here are some of my stats:
 <!-- Codewars Stats -->  
 ![Codewars](https://www.codewars.com/users/MykytaZozulia/badges/large)
 
-## What I’m Learning  
+![LeetCode Stats](https://leetcard.jacoblin.cool/zozuliamykyta?theme=light&font=baloo&ext=contest)
 
-- **React:** Exploring deeper hooks and component performance  
-- **TypeScript:** Enhancing strictly typed code practices  
-- **Redux Toolkit:** Mastering state management following modern standards  
 
 ---
 
