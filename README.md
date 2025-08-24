@@ -1,7 +1,5 @@
 # 👋 Welcome to my GitHub!
 
-<img src="https://github.com/user-attachments/assets/f8544188-844b-4fcf-b43f-bbd357b2113c" alt="me_github" width="600"/>
-
 I'm a frontend developer passionate about building responsive, accessible, and efficient interfaces — but I’m also expanding my skills in backend development to become more versatile and confident as a full-stack developer.
 
 ## About Me  
