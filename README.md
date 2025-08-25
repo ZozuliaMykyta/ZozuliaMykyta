@@ -28,9 +28,6 @@ Git, Docker, REST APIs
 
 Here are some of my stats:  
 
-<!-- Top Languages -->  
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZozuliaMykyta&layout=compact&langs_count=6&theme=dark) 
-
 <!-- Codewars Stats -->  
 ![Codewars](https://www.codewars.com/users/MykytaZozulia/badges/large)
 
