@@ -20,7 +20,7 @@ Node.js, Express.js
 **Tools & Workflow:**  
 Git, Docker, REST APIs, Jest, Vitest
 
-## GitHub Stats  
+## Stats  
 
 Here are some of my stats:  
 
