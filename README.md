@@ -1,15 +1,11 @@
 # 👋 Welcome to my GitHub!
 
-I'm a frontend developer passionate about building responsive, accessible, and efficient interfaces — but I’m also expanding my skills in backend development to become more versatile and confident as a full-stack developer.
+I'm a frontend developer passionate about building responsive, accessible, and efficient interfaces — and actively expanding my backend skills to become a versatile and confident full-stack developer.
 
 ## About Me  
-I'm currently studying **Industrial Management** at the **Technical University of Košice**. In my development journey, I’ve specialized in building modern interfaces using **React**, **TypeScript**, **Tailwind CSS**, and **SASS** — tools I use to create clean, responsive, and maintainable frontend applications.
+I specialize in building modern interfaces using **React**, **TypeScript**, **Tailwind CSS**, and **SASS** — tools I use to create clean, responsive, and maintainable frontend applications.
 
-As my skills evolved, I grew interested in the full development cycle and started diving deeper into backend technologies like **Node.js**, **Express.js**, and **Docker**, expanding my capabilities beyond the client side. 
-
-When I’m not coding, I:  
-- Spend time at the **gym** 💪  
-- Enjoy **nature** and take long walks outdoors 🌿  
+With a growing interest in the full development cycle, I have been deepening my expertise in backend technologies like **Node.js**, **Express.js**, and **Docker**, bringing robust solutions beyond the client side.
 
 ## 🛠️ Tech Stack
 **Languages:**  
@@ -22,7 +18,7 @@ React, Tailwind CSS, SASS/SCSS, BEM
 Node.js, Express.js
 
 **Tools & Workflow:**  
-Git, Docker, REST APIs
+Git, Docker, REST APIs, Jest, Vitest
 
 ## GitHub Stats  
 
@@ -36,7 +32,7 @@ Here are some of my stats:
 
 ---
 
-**Feel free to reach out to me!**  
-I’m always open to new connections and collaborations. If you have interesting ideas or projects, let’s discuss them! 🤝  
+**Feel free to reach out!**  
+I’m always open to new connections and collaborations. If you have interesting ideas or projects, let’s discuss them! 🤝
 
 ---
