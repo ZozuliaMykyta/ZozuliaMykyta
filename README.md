@@ -18,7 +18,7 @@ React, Tailwind CSS, SASS/SCSS, BEM
 Node.js, Express.js
 
 **Tools & Workflow:**  
-Git, Docker, REST APIs, Jest, Vitest
+Git, Docker, REST APIs, Jest, Vitest, Linux
 
 ## Stats  
 
