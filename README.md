@@ -12,13 +12,13 @@ With a growing interest in the full development cycle, I have been deepening my 
 HTML, CSS, JavaScript, TypeScript
 
 **Frontend:**  
-React, Tailwind CSS, SASS/SCSS, BEM
+React, Next.js, Tailwind CSS, SASS/SCSS, BEM
 
 **Backend:**  
 Node.js, Express.js
 
 **Tools & Workflow:**  
-Git, Docker, REST APIs, Jest, Vitest, Linux
+Git, Docker, REST APIs, Redux Toolkit, Jest, Vitest, Linux
 
 ## Stats  
 
